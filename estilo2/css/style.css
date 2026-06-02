@@ -1,0 +1,97 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    background-color: rgb(171, 222, 253);
+    margin: 0 auto;
+    border: 5px solid aqua;
+}
+
+.intrud{
+    align-items: center;
+    justify-content: center;
+    text-align: justify;
+    margin: 0 auto;
+}
+
+header i{
+    color: rgb(255, 255, 255);
+}
+header h1{
+    background-color: paleturquoise;
+    color: white;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    border-radius: 15px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+hr{
+    height: 5px;
+    background-color: #333;
+}
+h2{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.minitext{
+    max-width: 608px; 
+    width: 100%;
+}
+.container-colunas {
+    display: flex;
+    justify-content: space-between; 
+    width: 100%;
+    margin-top: 20px;
+}
+.container-colunas h2{
+    font-size: 30px;
+}
+.h2_2{
+  width: 350px; 
+  align-items: center;
+  margin: 0 auto;
+  font-family: sans-serif;
+  margin-left: 0;
+  margin-right: auto;
+}
+.h2_2 h2{
+  text-align: center; 
+  margin-bottom: 15px;
+}
+.h2_2 p{
+    font-size: 14px;
+  text-align: justify; 
+  line-height: 1.5;
+}
+
+.h2_3{
+  width: 350px; 
+  align-items: center;
+  margin: 0 auto;
+  font-family: sans-serif;
+  margin-left: 0;
+  margin-left: auto;
+}
+.h2_3 h2{
+  text-align: center; 
+  margin-bottom: 15px;
+}
+.h2_3 p{
+    font-size: 14px;
+  text-align: justify; 
+  line-height: 1.5;
+}
+footer{
+background-color: paleturquoise;
+    color: rgb(0, 0, 0);
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    border-radius: 15px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
